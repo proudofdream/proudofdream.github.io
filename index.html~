@@ -25,7 +25,7 @@
 								<div class="content color0 span-3-75">
 									<h1 class="major">Sapna &#128141; Gaurab<br />
 									5-Mar-2018</h1>
-									<p>We are pleased to tell you that, we are tying knots on 5-March, 2018. You are cordially <strong>invited</strong> to join us for this special occasion of our life. Both of us are very much excited for the big day. Bless us with your gracious presence.</p>
+									<p>We are pleased to tell you that, we are tying knot on 5-March, 2018. You are cordially <strong>invited</strong> to join us for this special occasion of our life. Both of us are very much excited for the big day. Bless us with your gracious presence.</p>
 									<ul class="actions">
 										<li><a href="#first" class="button special color1 circle icon fa-angle-right">Next</a></li>
 									</ul>
@@ -75,7 +75,7 @@ And we steal a march</strong></p>
 									<p>Both of us share some common dreams. We believe in giving back to the society by means of supporting education and social empowerment. We also dream of a greener future and sustainable growth for everyone. We also believe the education system needs a overhaul and equip our students for future rather than following the policies from times of industrial revolution - which is a past.</p>
 								</div>
 								<div class="inner">
-									<p><strong>The biggest gift for us will be your support to believe in our dreams and make the world a place that we think of.</strong></p>
+									<p><strong>The biggest gift for us will be your support to believe in our dreams and make the world a place that we think of.</strong><br>Support - Education for future, Food for all, Healthy citizens, Growth for all, Environmental innovation, Better infrastructure</p>
 									<ul class="grid-icons three connected">
 										<li><span class="icon fa-university"><span class="label">Education For Future</span></span></li>
 										<li><span class="icon fa-cutlery"><span class="label">Food For All</span></span></li>
@@ -90,10 +90,10 @@ And we steal a march</strong></p>
 							<section class="panel color2 large">
 								<div class="intro joined">
 									<h2 class="major">Our Gifts</h2>
-									<p>We strive to provide ourselves and our parents a better life. Our parents have made both of us well equipped to support a good livelyhood. <strong>So you blessings are our biggest gifts.</strong><br>Just communicate with us which of our dreams you supported and how. <strong><br>Email: proudofdream@gmail.com<br>M: 9874975638</strong> </p>
+									<p>We strive to provide ourselves and our parents a better life. Our parents have made both of us well equipped to support a good livelyhood. <strong>So your blessings are our biggest gifts.</strong><br>Just communicate with us which of our dreams you supported and how. Drop me a line with <strong>"I Support : YOUR VISION"</strong> <strong><br>Email: proudofdream@gmail.com<br>M: 9874975638</strong> </p>
 								</div>
 								<div class="inner">
-									<p>If you want us to support our vision you can UPI to <strong>gaurabpa1992@okhdfcbank</strong> and drop me a line with <strong>"I Support : YOUR VISION"</strong> (Education for future, Food for all, Healthy citizens, Growth for all, Environmental innovation, Better infrastructure)</p>
+									<p>In case you are planning to give flat gifts, you can UPI to <strong>gaurabpa1992@okhdfcbank</strong> </p>
 										<img width="35%" src="images/upi.png" alt="" />
 								</div>
 							</section>
@@ -228,11 +228,8 @@ And pride of Sapna</p>
 							</section>
 
 
-							<section class="panel spotlight medium right" id="first">
-								<div class="content span-7">
-									<h2 class="major"></h2>
-									<p></p>
-								</div>
+							<section class="panel spotlight small right" id="first">
+
 								<div class="image filtered tinted" data-position="top left">
 									<img src="images/gallery/fulls/sap_wed_joy.jpg" alt="" />
 								</div>
